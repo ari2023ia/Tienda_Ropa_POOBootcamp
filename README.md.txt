@@ -1,0 +1,1 @@
+El propósito de este programa es implementar las caracteristicas de la Programación Orientada a Objetos para practicar su uso... en este caso en una simulacion de tienda de ropas.
